@@ -7,8 +7,6 @@ HTML5 e CSS3 parte 1: A primeira página da Web <br>
 HTML5 e CSS3 parte 2: Posicionamento, listas e navegação 
 <br><br>
 
----
-<br>
 
 ## O que eu vou aprender?
 HTML: A criar texto, imagem, blocos de conteúdo, listas de informações, tags, sobre cada uma das propriedades.<br>
@@ -16,14 +14,13 @@ CSS: A mudar as cores, posicionar elementos,espaçamento.
 <br>
 <br>
 
----
+
 ## Autora
 <br>
 <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/67131828?s=400&u=c888d029097f2333d1ed889d6400dd534f50fdc7&v=4" width="100px;" alt="imagem do avatar"/>
 <br>
 
 📝 <sub><b>Naka</b></sub></a> 
-
 
 Feito por Alexandra Nakamura 👋🏽 Entre em contato!
 
@@ -32,8 +29,6 @@ Feito por Alexandra Nakamura 👋🏽 Entre em contato!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:designernakamura@gmail.com)](mailto:designernakamura@gmail.com)
 <br>
 <br>
-
----
 
 <br>
 
