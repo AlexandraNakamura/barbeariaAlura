@@ -10,6 +10,14 @@ header {
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
+	margin-top: -3px;
+}
+
+.boxtext, .containerBeneficios{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	display: block;
 }
 
 .titulo-principal {
@@ -17,15 +25,28 @@ header {
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
+	font-size: 2rem;
+	padding-bottom: .8rem;
+	font-weight: 600;
 }
 
 p {
 	text-align: center;
+	font-size: 1rem;
+	line-height: 1.8rem;
 }
 
 #missao {
 	font-size: 20px
+}
+
+strong {
+	font-weight: 600;
+}
+
+em {
+	font-size: 1rem;
 }
 
 em strong {
@@ -39,15 +60,26 @@ em strong {
 .beneficios {
 	background: #FFFFFF;
 	padding: 20px;
+	margin: 0 auto;
 }
+
+.context {
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 
 ul {
 	display: inline-block;
 	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
+	width: 25%;
+	font-size: 1.2rem;
+	line-height: 1.8rem;
+	font-weight: 600;
 }
 
 .imagembeneficios {
 	width: 50%;
+	margin: 1.07rem 0;
 }
