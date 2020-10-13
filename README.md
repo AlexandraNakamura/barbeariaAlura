@@ -17,7 +17,7 @@ CSS: A mudar as cores, posicionar elementos,espaçamento.
 
 ## Autora
 <br>
-<img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/67131828?s=400&u=c888d029097f2333d1ed889d6400dd534f50fdc7&v=4" width="100px;" alt="imagem do avatar"/>
+<img style="border-radius: 50%" src="https://avatars1.githubusercontent.com/u/67131828?s=400&u=c888d029097f2333d1ed889d6400dd534f50fdc7&v=4" width="100px;" alt="imagem do avatar"/>
 <br>
 
 📝 <sub><b>Naka</b></sub></a> 
