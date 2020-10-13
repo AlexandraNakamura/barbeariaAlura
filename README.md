@@ -5,7 +5,8 @@ O propósito desse projeto é criar uma página igual a imagem a cima. <br>
 Irei treinar HTML e CSS junto com as aulas do cursos da [Alura](https://www.alura.com.br/) da qual estou fazendo.<br>
 HTML5 e CSS3 parte 1: A primeira página da Web <br>
 HTML5 e CSS3 parte 2: Posicionamento, listas e navegação 
-<br><br>
+<br>
+HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas<br>
 
 
 ## O que eu vou aprender?
