@@ -91,6 +91,53 @@ footer {
     padding: 40px 0;
 }
 
+footer div {
+    width: 940px;
+    margin: 0 auto;
+}
+
+footer div.infoFooter{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+footer div.infoFooter img{
+    width: auto;
+    height: 289px;
+}
+
+footer div.infoAtendimento{
+    width:35%;
+    color: #fff;
+    display: grid;
+    margin-right: 0;
+}
+
+table {
+    margin: 20px 0 20px;
+}
+
+thead {
+    color: #fff;
+    font-weight: bold;
+}
+
+tbody{
+    color: #fff;
+}
+
+td, th {
+    border: 1px solid #fff;
+    padding: 8px 15px;
+}
+
+p.atendimentoLocal{
+    text-align: left;
+    line-height: 1.2rem;
+}
+
+
 .copyright {
     color: #FFFFFF;
     font-size: 13px;

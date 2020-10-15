@@ -1,5 +1,7 @@
 # 💈 Barbearia Alura 💈 [🚧  Em construção...  🚧]
-![](/images/logo.png)
+<img align="center" src="./image/logo.png" alt="Logo da Barbearia Alura">
+<br>
+
 ## Descrição do Projeto
 O propósito desse projeto é criar uma página igual a imagem a cima. <br>
 Irei treinar HTML e CSS junto com as aulas do cursos da [Alura](https://www.alura.com.br/) da qual estou fazendo.<br>
@@ -34,5 +36,6 @@ Feito por Alexandra Nakamura 👋🏽 Entre em contato!
 <br>
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT license](/licenses)
  <br><br>
+
