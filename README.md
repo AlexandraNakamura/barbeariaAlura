@@ -1,19 +1,21 @@
-# 💈 Barbearia Alura 💈 [🚧  Em construção...  🚧]
-<img align="center" src="./image/logo.png" alt="Logo da Barbearia Alura">
+# 💈 Barbearia Alura 💈 
+<h2 align="center">[🚧  Em construção...  🚧]</h2>
+<h1 align="center"><img  src="./image/logo.png" alt="Logo da Barbearia Alura"></h1>
 <br>
 
 ## Descrição do Projeto
 O propósito desse projeto é criar uma página igual a imagem a cima. <br>
 Irei treinar HTML e CSS junto com as aulas do cursos da [Alura](https://www.alura.com.br/) da qual estou fazendo.<br>
-HTML5 e CSS3 parte 1: A primeira página da Web <br>
-HTML5 e CSS3 parte 2: Posicionamento, listas e navegação 
-<br>
-HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas<br>
+- [x] HTML5 e CSS3 parte 1: A primeira página da Web <br>
+- [x] HTML5 e CSS3 parte 2: Posicionamento, listas e navegação<br>
+- [x] HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas<br>
+- [ ] HTML5 e CSS3 parte 4: Avançando no CSS<br><br>
 
 
 ## O que eu vou aprender?
-HTML: A criar texto, imagem, blocos de conteúdo, listas de informações, tags, sobre cada uma das propriedades.<br>
-CSS: A mudar as cores, posicionar elementos,espaçamento.
+HTML: A criar texto, imagem, blocos de conteúdo, listas de informações, tags, navegar entre páginas web, sobre cada uma das propriedades, tabela, fontes, iframe para mapa e vídeos,  <br>
+
+CSS: A mudar as cores, posicionar elementos, espaçamento, bordas, hierarquia,  transformações e transições.
 <br>
 <br>
 
@@ -37,5 +39,3 @@ Feito por Alexandra Nakamura 👋🏽 Entre em contato!
 
 ## License
 [MIT license](/licenses)
- <br><br>
-
