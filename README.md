@@ -1,6 +1,6 @@
 # 💈 Barbearia Alura 💈 
 <h2 align="center">[🚧  Em construção...  🚧]</h2>
-<h1 align="center"><img  src="./image/logo.png" alt="Logo da Barbearia Alura"></h1>
+<h1 align="center"><img  src="./doc/image/logo.png" alt="Logo da Barbearia Alura"></h1>
 <br>
 
 ## Descrição do Projeto
