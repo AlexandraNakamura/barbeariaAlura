@@ -143,3 +143,45 @@ p.atendimentoLocal{
     font-size: 13px;
     margin: 20px 0 0;
 }
+
+
+@media screen and (max-width: 480px) { 
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+        width: auto;
+    }
+
+
+    h1 {
+        text-align: center;
+    }
+    
+    nav {
+        position: static;
+    }
+
+    .produtos li+li  {
+        display: block;
+        width: 80%;
+        margin: 50px 1.5%;
+        padding: 30px 20px;
+    }
+
+    .produtos li { 
+        width: 80%;
+    }
+
+    .produtos li img {
+        width: 80%;
+    }
+
+    .produtos, footer div, footer div.infoAtendimento, .lista-beneficios, .imagem-beneficios {
+        width: 90%;
+    }
+
+    footer div.infoFooter{
+        display: block;
+        justify-content:space-between;
+        align-items: center;
+    }
+    
+}

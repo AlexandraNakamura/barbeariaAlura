@@ -10,7 +10,7 @@ Irei treinar HTML e CSS junto com as aulas do cursos da [Alura](https://www.alur
 - [x] HTML5 e CSS3 parte 2: Posicionamento, listas e navegação<br>
 - [x] HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas<br>
 - [x] HTML5 e CSS3 parte 4: Avançando no CSS<br>
-- [] JavaScript: Programando na linguagem da web<br><br>
+- [ ] JavaScript: Programando na linguagem da web<br><br>
 
 
 ## O que eu vou aprender?
