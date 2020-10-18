@@ -9,13 +9,16 @@ Irei treinar HTML e CSS junto com as aulas do cursos da [Alura](https://www.alur
 - [x] HTML5 e CSS3 parte 1: A primeira página da Web <br>
 - [x] HTML5 e CSS3 parte 2: Posicionamento, listas e navegação<br>
 - [x] HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas<br>
-- [ ] HTML5 e CSS3 parte 4: Avançando no CSS<br><br>
+- [x] HTML5 e CSS3 parte 4: Avançando no CSS<br>
+- [x] JavaScript: Programando na linguagem da web<br><br>
 
 
 ## O que eu vou aprender?
 HTML: A criar texto, imagem, blocos de conteúdo, listas de informações, tags, navegar entre páginas web, sobre cada uma das propriedades, tabela, fontes, iframe para mapa e vídeos,  <br>
 
 CSS: A mudar as cores, posicionar elementos, espaçamento, bordas, hierarquia,  transformações e transições.
+
+JS: A manipular os elementos de sua página, eventos do navegador, utilizar e validar formulários, Conhecer boas práticas de organização de código Javascript.
 <br>
 <br>
 
