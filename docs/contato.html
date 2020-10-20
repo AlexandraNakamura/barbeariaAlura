@@ -24,28 +24,29 @@
     </header> 
     <main>
         <form>
-            <label for="nomesobrenome">Nome completo</label>
+            <label for="nomesobrenome">Nome completo<span class="obrigatorio">*</span></label>
             <input type="text" id="nomesobrenome" class="input-padrao" required placeholder="Nome Sobrenome">
             
-            <label for="email">Email</label>
+            <label for="email">Email<span class="obrigatorio">*</span></label>
             <input type="text" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
             
-            <label for="telefone">Telefone</label>
+            <label for="telefone">Telefone<span class="obrigatorio">*</span></label>
             <input type="text" id="telefone" class="input-padrao" required placeholder="(XX) XXXXX-XXXX">
             
             <label for="mensagem">Mensagem </label>
             <label for="mensagem" class="detalhes">(Escreva alguma observação, cuidado que precisamos ter com você.)</label>
             <textarea cols="70" rows="10" id="mensagem" class="input-padrao" placeholder="Tenho sensibilidade com água muito quente."></textarea>
             <fildset >
-                <p class="titlePergunta">Qual horário prefere ser atendido?</p>
-                <select class="atendimentoBox">
+                <p class="titlePergunta">Qual horário prefere ser atendido? <span class="obrigatorio">*</span></p>
+                <select class="atendimentoBox" required>
+                    <option></option>
                     <option>Manhã</option>
                     <option>Tarde</option>
                     <option>Noite</option>
                 </select>
             </fildset>
             <fieldset>
-                <p class="titlePergunta">Como prefere o nosso contato?</p>
+                <p class="titlePergunta">Como prefere o nosso contato?<span class="obrigatorio">*</span></p>
                 <label for="radio-email">
                     <input type="radio" name="contato" value="email" id="radio-email">
                     Email
@@ -63,7 +64,7 @@
                 <input type="checkbox">
                 Gostaria de receber nossas novidades por email?
             </label>
-            <input type="submit" value="Enviar formulário" class="enviar">
+            <input id="enviarFormulario" type="submit" value="Enviar formulário" class="enviar">
         </form>
     </main>
     <footer>
@@ -105,5 +106,6 @@
             <p class="copyright">&copy; Copyright Barbearia Alura - 2019</p>
         </div>
     </footer>
+    <script src="./js/formulário.js"></script>
 </body>
 </html>

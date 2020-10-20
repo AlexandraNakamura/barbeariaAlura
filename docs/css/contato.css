@@ -7,6 +7,11 @@ form {
     margin: 40px 0;
 }
 
+span.obrigatorio {
+    color: rgb(255, 2, 2);
+    font-size: 1rem;
+}
+
 form label, form legend, form .titlePergunta {
     display:block;
     font-size: 20px;
@@ -39,7 +44,7 @@ form .atendimentoBox {
 }
 
 .enviar {
-    width:40%;
+    width:25%;
     padding: 15px 0;
     background: #f1ab1e;
     color: white;

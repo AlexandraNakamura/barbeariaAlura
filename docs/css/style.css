@@ -149,14 +149,20 @@ ul {
 .video {
     width: 560px;
 	margin: 2.5rem auto 4.25rem;
+}
+
+div.video iframe {
 	box-shadow: -5px -5px 30px -2px #1a1b1b, 5px 5px 30px -1px #C78C19;
 }
 
 @media screen and (max-width: 480px) { 
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+    .caixa, .principal, .conteudo-beneficios, .boxtext, .mapa, .mapa-conteudo, .beneficios, .video {
         width: auto;
-    }
-
+	}
+	
+	#banner{
+		margin-bottom: 1rem;
+	}
 
     h1 {
         text-align: center;
@@ -164,9 +170,61 @@ ul {
 
     nav {
         position: static;
-    }
+	}
+	
+	.principal, .beneficios {
+		display: flex;
+		margin: 2rem;
+		padding: initial;
+	}
+
+	.utensilios {
+		width: 100%;
+		float: initial;
+		margin: 0 auto 3rem;
+	}
+
+	.titulo-principal, .mapa h3, .beneficios h3 {
+		font-size: 1.8rem;
+		margin: 0 auto 2rem;
+	}
+
+	.mapa {
+		padding: 0;
+	}
+	.mapa p, footer div.infoAtendimento p {
+		margin: 0 2rem 1rem;
+		text-align:left;
+	}
+
+	.context {
+		display: block;
+	}
+
+	.context ul {
+		width: 100%;
+	}
 
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
-    }
+	}
+	
+	div.video iframe, video {
+		width: 95%;
+		height: auto;
+		display: flex;
+		margin: 0 auto;
+	}
+
+	footer div.infoAtendimento {
+		display:initial;
+	}
+
+	footer div.infoAtendimento table {
+		margin: 1rem auto;
+	}
+
+	footer div.infoAtendimento p {
+		font-size: 0.75rem;
+	}
 }

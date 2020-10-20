@@ -184,4 +184,9 @@ p.atendimentoLocal{
         align-items: center;
     }
     
+    .copyright {
+        color: #FFFFFF;
+        font-size: 0.65rem;
+        margin: 20px 0 0;
+    }
 }
