@@ -210,7 +210,7 @@ div.video iframe {
 	}
 	
 	div.video iframe, video {
-		width: 95%;
+		width: 90%;
 		height: auto;
 		display: flex;
 		margin: 0 auto;
