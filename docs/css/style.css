@@ -193,6 +193,11 @@ div.video iframe {
 		padding: 0;
 	}
 
+	.mapa p {
+		margin: 0 2rem 1rem;
+		text-align:left;
+	}
+
 	.context {
 		display: block;
 	}

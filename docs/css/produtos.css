@@ -182,7 +182,7 @@ p.atendimentoLocal{
         width: 90%;
     }
 
-    .mapa p, footer div.infoAtendimento p {
+    footer div.infoAtendimento p {
 		margin: 0 2rem 1rem;
 		text-align:left;
 	}

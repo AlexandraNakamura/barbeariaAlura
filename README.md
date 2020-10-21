@@ -1,5 +1,5 @@
 # 💈 Barbearia Alura 💈 
-<h2 align="center">[🚧  Em construção...  🚧]</h2>
+
 <h1 align="center"><img  src="./docs/image/logo.png" alt="Logo da Barbearia Alura"></h1>
 <br>
 
@@ -10,7 +10,7 @@ Irei treinar HTML e CSS junto com as aulas do cursos da [Alura](https://www.alur
 - [x] HTML5 e CSS3 parte 2: Posicionamento, listas e navegação<br>
 - [x] HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas<br>
 - [x] HTML5 e CSS3 parte 4: Avançando no CSS<br>
-- [ ] JavaScript: Programando na linguagem da web<br><br>
+- [x] JavaScript: Programando na linguagem da web<br><br>
 
 
 ## O que eu vou aprender?
