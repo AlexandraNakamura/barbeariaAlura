@@ -192,10 +192,6 @@ div.video iframe {
 	.mapa {
 		padding: 0;
 	}
-	.mapa p, footer div.infoAtendimento p {
-		margin: 0 2rem 1rem;
-		text-align:left;
-	}
 
 	.context {
 		display: block;
@@ -210,21 +206,11 @@ div.video iframe {
 	}
 	
 	div.video iframe, video {
-		width: 90%;
+		width: 83%;
 		height: auto;
 		display: flex;
 		margin: 0 auto;
 	}
 
-	footer div.infoAtendimento {
-		display:initial;
-	}
 
-	footer div.infoAtendimento table {
-		margin: 1rem auto;
-	}
-
-	footer div.infoAtendimento p {
-		font-size: 0.75rem;
-	}
 }

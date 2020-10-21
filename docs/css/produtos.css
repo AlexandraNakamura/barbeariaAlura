@@ -1,3 +1,7 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
 header {
     background: #BBBBBB;
     padding: 20px 0;
@@ -159,30 +163,47 @@ p.atendimentoLocal{
         position: static;
     }
 
-    .produtos li+li  {
-        display: block;
-        width: 80%;
-        margin: 50px 1.5%;
-        padding: 30px 20px;
+    .produtos li~li {
+        margin: 50px 10%;
+
     }
 
-    .produtos li { 
+    .produtos li {
         width: 80%;
+        margin: 30px 10%;
+        padding: 30px 20px;
     }
 
     .produtos li img {
         width: 80%;
     }
 
-    .produtos, footer div, footer div.infoAtendimento, .lista-beneficios, .imagem-beneficios {
+    .produtos, footer div, .lista-beneficios, .imagem-beneficios {
         width: 90%;
     }
+
+    .mapa p, footer div.infoAtendimento p {
+		margin: 0 2rem 1rem;
+		text-align:left;
+	}
 
     footer div.infoFooter{
         display: block;
         justify-content:space-between;
         align-items: center;
     }
+
+    footer div.infoAtendimento {
+		display:initial;
+	}
+
+	footer div.infoAtendimento table {
+		margin: 1rem auto;
+	}
+
+	footer div.infoAtendimento p {
+		font-size: 0.75rem;
+	}
     
     .copyright {
         color: #FFFFFF;
